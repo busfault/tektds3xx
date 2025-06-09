@@ -1,2 +1,2 @@
 # tektds3xx
-Tektronix TDS 340 Python API
+Tektronix TDS340, TDS340A, TDS360, TD380 Python API
